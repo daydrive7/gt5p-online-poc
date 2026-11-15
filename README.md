@@ -28,6 +28,6 @@ The included XML is a synthetic discovery sample with an empty event list. Conso
 
 ## Credits and license
 
-The server source is available under the MIT License. The ticket format work references [Nenkai/Grimoire](https://github.com/Nenkai/Grimoire) and retains its MIT notice. See LICENSE and THIRD-PARTY-NOTICES.md.
+The server source is available under the MIT License. Credit to Nenkai for [Grimoire](https://github.com/Nenkai/Grimoire) and its work on the Grim protocol, including the NP ticket format, XML envelopes, and route shapes used as references for this project. Grimoire's MIT notice is included in THIRD-PARTY-NOTICES.md. See LICENSE for this project's license.
 
 Gran Turismo is a trademark of its respective owner. This community project is unaffiliated with Sony Interactive Entertainment or Polyphony Digital.
