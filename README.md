@@ -9,6 +9,11 @@ The sample discovery lists advertise three regions: Americas (`us`), Europe (`eu
 | Spec II | spec-ii | http://127.0.0.1:8180 |
 | Spec III | spec-iii | http://127.0.0.1:8181 |
 
+## Tested game editions
+
+- EU Spec II physical copy, without the Spec III upgrade
+- EU Spec III digital copy
+
 ## Run locally
 
 Install the .NET 8 SDK, enter the project directory for the version you want, and run:
