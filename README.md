@@ -15,7 +15,7 @@ Install the .NET 8 SDK, enter the project directory for the version you want, an
 
     dotnet run --project Gt5pOnlineServer.csproj
 
-From another terminal, request /init/regionlist.xml or /init/eu/serverlist.xml on the corresponding URL. Each project starts with an in-memory database. Use the ConnectionStrings__GrimDb environment variable if you need PostgreSQL persistence.
+From another terminal, request /init/regionlist.xml or /init/eu/serverlist.xml on the corresponding URL. Both projects use Entity Framework Core for data access. Each starts with an in-memory database. Set the ConnectionStrings__GrimDb environment variable to use PostgreSQL for persistent storage.
 
 These builds are for controlled local testing. The HTTP listener binds to loopback by default, and DNS, TLS, dynamic weather and the experimental real-time UDP listener are opt-in. The admin interface has no authentication and can display client data. Keep the server on an isolated test network if you configure it for console access.
 
