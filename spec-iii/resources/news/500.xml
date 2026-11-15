@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<news>
+  <news_id>500</news_id>
+  <news_category_id1>1</news_category_id1>
+  <news_category_id2>1</news_category_id2>
+  <news_category_id3>0</news_category_id3>
+  <title>Example news</title>
+  <headline>Server announcement</headline>
+  <comment>This is an example news item. Edit this text to publish a server announcement.</comment>
+  <news_time>2026-10-04T10:12:39Z</news_time>
+  <lastupdate>2026-10-04T12:12:18Z</lastupdate>
+</news>
