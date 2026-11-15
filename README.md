@@ -2,6 +2,8 @@
 
 This is an unofficial, standalone C#/.NET 8 server proof of concept for Gran Turismo 5 Prologue. Spec II and Spec III are separate server implementations with independent settings and data. The source exposes experimental handlers for discovery, sessions, rankings, replays and matchmaking. Game-client compatibility and feature coverage vary by version.
 
+This repository publishes the older standalone builds. The newer GrimService integration was developed separately and has broader feature coverage. The sample discovery lists advertise three regions: Americas (`us`), Europe (`eu`), and Japan (`jp`). The UK is grouped under Europe.
+
 | Version | Project directory | Default HTTP URL |
 | --- | --- | --- |
 | Spec II | spec-ii | http://127.0.0.1:8180 |
