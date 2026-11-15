@@ -16,4 +16,180 @@
     <online_type>2</online_type>
     <max_entry>2</max_entry>
   </event>
-  </event_list>
+  <event>
+    <title>
+      <JP>Suzuka Circuit East Course - 1 lap</JP>
+      <US>Suzuka Circuit East Course - 1 lap</US>
+      <GB>Suzuka Circuit East Course - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>11</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>Fuji Speedway F - 1 lap</JP>
+      <US>Fuji Speedway F - 1 lap</US>
+      <GB>Fuji Speedway F - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>12</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>Fuji Speedway GT - 1 lap</JP>
+      <US>Fuji Speedway GT - 1 lap</US>
+      <GB>Fuji Speedway GT - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>13</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>Daytona Superspeedway - 1 lap</JP>
+      <US>Daytona Superspeedway - 1 lap</US>
+      <GB>Daytona Superspeedway - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>14</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>Daytona Road Course - 1 lap</JP>
+      <US>Daytona Road Course - 1 lap</US>
+      <GB>Daytona Road Course - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>15</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>London - 1 lap</JP>
+      <US>London - 1 lap</US>
+      <GB>London - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>16</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>London Reverse - 1 lap</JP>
+      <US>London Reverse - 1 lap</US>
+      <GB>London Reverse - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>17</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>Eiger Nordwand - 1 lap</JP>
+      <US>Eiger Nordwand - 1 lap</US>
+      <GB>Eiger Nordwand - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>18</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>Eiger Nordwand Reverse - 1 lap</JP>
+      <US>Eiger Nordwand Reverse - 1 lap</US>
+      <GB>Eiger Nordwand Reverse - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>19</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>High Speed Ring - 1 lap</JP>
+      <US>High Speed Ring - 1 lap</US>
+      <GB>High Speed Ring - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>20</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  <event>
+    <title>
+      <JP>High Speed Ring Reverse - 1 lap</JP>
+      <US>High Speed Ring Reverse - 1 lap</US>
+      <GB>High Speed Ring Reverse - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>21</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+</event_list>

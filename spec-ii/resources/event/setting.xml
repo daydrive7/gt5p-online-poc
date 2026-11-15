@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<setting>
+	<event_enable value="1" />
+	<entry_expire_sec value="600" />
+	<max_entry value="16" />
+</setting>

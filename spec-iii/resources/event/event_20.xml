@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xml>
+  <GameParameter version="100">
+    <championship value="0" />
+    <folder_id value="20" />
+    <events>
+      <event>
+        <constraint>
+          <abs value="-1" />
+          <active_steering value="-1" />
+          <asm value="-1" />
+          <drift_type value="-1" />
+          <driving_line value="-1" />
+          <enemy_tire value="-1" />
+          <limit_tire_f value="-1" />
+          <limit_tire_r value="-1" />
+          <need_tire_f value="-1" />
+          <need_tire_r value="-1" />
+          <simulation value="0" />
+          <suggest_tire_f value="-1" />
+          <suggest_tire_r value="-1" />
+          <tcs value="-1" />
+          <transmission value="-1" />
+        </constraint>
+        <event_id value="20" />
+        <event_type value="RACE" />
+        <game_mode value="ONLINE_ARCADE" />
+        <course value="76" />
+        <lap value="1" />
+        <max_entry value="2" />
+        <information>
+          <advanced_notice />
+          <flier_other_info value="" />
+        </information>
+      </event>
+    </events>
+  </GameParameter>
+</xml>
