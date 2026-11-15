@@ -24,7 +24,7 @@ From another terminal, request /init/regionlist.xml or /init/eu/serverlist.xml o
 
 These builds are for controlled local testing. The HTTP listener binds to loopback by default, and DNS, TLS, dynamic weather and the experimental real-time UDP listener are opt-in. The admin interface has no authentication and can display client data. Keep the server on an isolated test network if you configure it for console access.
 
-The included XML is a synthetic discovery sample with an empty event list. Console testing requires a separately configured compatible client. Features such as online events, news and GT-TV require suitable version-specific resources supplied separately. This release contains server source and synthetic samples only.
+Each Spec includes examples for server discovery, one event and its settings, news categories, and weather cities. The event and news examples show the formats used by these builds. Additional content, including GT-TV media, requires suitable version-specific resources supplied separately. Console testing requires a separately configured compatible client.
 
 ## Credits and license
 

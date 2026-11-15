@@ -1,0 +1,23 @@
+[
+  {"Id":1,"Name":"Tokyo","Latitude":35.68,"Longitude":139.76},
+  {"Id":2,"Name":"Nagoya","Latitude":35.18,"Longitude":136.91},
+  {"Id":3,"Name":"Yokohama","Latitude":35.44,"Longitude":139.64},
+  {"Id":4,"Name":"Hamamatsu","Latitude":34.71,"Longitude":137.73},
+  {"Id":5,"Name":"Hiroshima","Latitude":34.39,"Longitude":132.46},
+  {"Id":6,"Name":"Detroit","Latitude":42.33,"Longitude":-83.05},
+  {"Id":7,"Name":"San Francisco","Latitude":37.77,"Longitude":-122.42},
+  {"Id":8,"Name":"Los Angeles","Latitude":34.05,"Longitude":-118.24},
+  {"Id":9,"Name":"London","Latitude":51.51,"Longitude":-0.13},
+  {"Id":10,"Name":"Paris","Latitude":48.86,"Longitude":2.35},
+  {"Id":11,"Name":"Frankfurt","Latitude":50.11,"Longitude":8.68},
+  {"Id":12,"Name":"Cologne","Latitude":50.94,"Longitude":6.96},
+  {"Id":13,"Name":"Dijon","Latitude":47.32,"Longitude":5.04},
+  {"Id":14,"Name":"Stuttgart","Latitude":48.78,"Longitude":9.18},
+  {"Id":15,"Name":"Munich","Latitude":48.14,"Longitude":11.58},
+  {"Id":16,"Name":"Maranello","Latitude":44.53,"Longitude":10.87},
+  {"Id":17,"Name":"Turin","Latitude":45.07,"Longitude":7.69},
+  {"Id":18,"Name":"Nuerburg","Latitude":50.34,"Longitude":6.95},
+  {"Id":19,"Name":"Berlin","Latitude":52.52,"Longitude":13.41},
+  {"Id":20,"Name":"Prague","Latitude":50.08,"Longitude":14.44},
+  {"Id":21,"Name":"Vienna","Latitude":48.21,"Longitude":16.37}
+]

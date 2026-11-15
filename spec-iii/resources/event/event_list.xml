@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<events />
+<?xml version='1.0' encoding='utf-8'?>
+<event_list>
+  <event>
+    <title>
+      <JP>Suzuka Circuit - 1 lap</JP>
+      <US>Suzuka Circuit - 1 lap</US>
+      <GB>Suzuka Circuit - 1 lap</GB>
+    </title>
+    <description>
+      <JP>One lap, two drivers. Select the same event on both consoles.</JP>
+      <US>One lap, two drivers. Select the same event on both consoles.</US>
+      <GB>One lap, two drivers. Select the same event on both consoles.</GB>
+    </description>
+    <event_id>8</event_id>
+    <event_type>ONLINE_ARCADE</event_type>
+    <online_type>2</online_type>
+    <max_entry>2</max_entry>
+  </event>
+  </event_list>
