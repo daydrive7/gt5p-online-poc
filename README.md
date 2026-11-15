@@ -1,4 +1,4 @@
-# Gran Turismo 5 Prologue Online Server Proof of Concept
+# Gran Turismo 5 Prologue Online Server PoC
 
 This is an unofficial, standalone C#/.NET 8 server proof of concept for Gran Turismo 5 Prologue. Spec II and Spec III are separate server implementations with independent settings and data. The source exposes experimental handlers for discovery, sessions, rankings, replays and matchmaking. Game-client compatibility and feature coverage vary by version.
 
