@@ -24,7 +24,7 @@ From another terminal, request /init/regionlist.xml or /init/eu/serverlist.xml o
 
 These builds are for controlled local testing. The HTTP listener binds to loopback by default, and DNS, TLS, dynamic weather and the experimental real-time UDP listener are opt-in. The admin interface has no authentication and can display client data. Keep the server on an isolated test network if you configure it for console access.
 
-Each Spec includes examples for server discovery, one event and its settings, news categories, and weather cities. The event and news examples show the formats used by these builds. Each news example links a category and list to news item 500. Edit the corresponding `resources/news/500.xml` to change the announcement. Additional content, including GT-TV media, requires suitable version-specific resources supplied separately. Console testing requires a separately configured compatible client.
+Each Spec includes examples for server discovery, one event and its settings, news categories, and weather cities. The event and news examples show the formats used by these builds. Each news example links a category and list to news item 500. Edit the corresponding `resources/news/500.xml` to change the announcement. GT-TV examples in `resources/tv` show a category, list, and illustrative video metadata for each Spec. The example contains placeholder sizes and an empty content key. Compatible video, descriptors and artwork must be supplied separately, and playback has not been verified. Console testing requires a separately configured compatible client.
 
 ## Credits and license
 
