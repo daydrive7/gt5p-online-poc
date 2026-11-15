@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regions>
+  <region key="jp" value="Japan" />
+  <region key="us" value="Americas" />
+  <region key="eu" value="Europe" />
+  <region key="uk" value="United Kingdom" />
+</regions>
